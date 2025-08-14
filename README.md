@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**dopezayn/dopezayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☕ Coffee = More Code
 
-Here are some ideas to get you started:
+Hey, I don’t run on electricity… I run on coffee.  
+Fuel me up and I’ll keep dropping cool stuff here.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Crypto Menu:**   
+- **TON:** `UQD57Rq5nvM8Cyy60bLKatc9lu4ncw3EpsRxcOG6VkkPGAXN`  
+- **USDT Bep20:** `0x252C31499eC7eCf6A1aCe4958543d56be7935598`  
+
+## 🌐 Let’s Connect
+
+📢 **Telegram Channel:** [Click here](https://t.me/Next_Gen_nexus)  
+💬 **DM me:** [@Dope_ZaYN](https://t.me/Dope_ZaYN)
